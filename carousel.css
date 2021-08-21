@@ -68,3 +68,15 @@ body {
 }
 .carousel-inner > .item > .drake {
   position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.drake-classic {
+  background-image: url("images/cool-guy-drake.jpg");
+  background-position: 0 -100px;
+}
+
