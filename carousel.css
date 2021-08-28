@@ -118,3 +118,10 @@ body {
   line-height: 1;
   letter-spacing: -1px;
 }
+
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
