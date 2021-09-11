@@ -188,3 +188,9 @@ body {
         width:320px; 
         height:160px; 
         background-color: black; 
+        display: block; 
+        font-size: 30px; 
+        text-align: center;
+      }   
+
+     
