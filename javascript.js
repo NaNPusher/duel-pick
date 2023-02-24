@@ -12,3 +12,7 @@ function getQuote() {
          "I just been plottin' on the low, schemin' on the low, the furthest thing from perfect like everyone I know.");
 
          var randomChoice = Math.floor(Math.random()* quotes.length)         
+
+         $("#myBox").html(quotes[randomChoice]);
+
+      }
